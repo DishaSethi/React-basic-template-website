@@ -1,0 +1,8 @@
+.about{
+    /* display: flex; */
+    text-align: center;
+    justify-content: center;
+}
+h2{
+    padding: 1rem;
+}

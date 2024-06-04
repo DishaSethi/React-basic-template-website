@@ -1,0 +1,41 @@
+nav{
+    
+    background-image: url(https://lean-in-mentorship.vercel.app/static/media/Cherry_Blossoms_1-scaled.58da32fa4e845656bc01.webp);
+background-size: cover;
+    
+    position: static;
+    padding: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+.elements{
+    align-items: center;
+  display: flex;
+  justify-content: right;
+  color: rgb(73, 24, 54);
+}
+nav button{
+    padding: 10px 30px;
+    margin-left: 40px;
+    background-color: #522d47;
+    border-radius: 15px;
+    color: #f1c7e5;
+}
+
+
+
+nav a{
+    color: rgb(73, 24, 54);
+    text-decoration: none;
+    justify-content: right;
+
+    
+}
+nav button:hover{
+    background: #f083cf;
+    color: black;
+    cursor: pointer;
+}
+ 
